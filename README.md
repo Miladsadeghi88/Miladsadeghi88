@@ -9,4 +9,4 @@ Adaptable Android Developer with strong social communication skills and a passio
 
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://https://www.linkedin.com/in/milad-sadeghi-2421231b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-sadeghi-2421231b2/)
